@@ -1,7 +1,7 @@
 # Overview
-A conceptual understanding of Reinforcement Learning from Human Feedback (RLHF), as well as the datasets needed for this technique
-Fine-tune the Llama 2 model using RLHF with the open source Google Cloud Pipeline Components Library
-Evaluate tuned model performance against the base model with evaluation methods
+A conceptual understanding of Reinforcement Learning from Human Feedback (RLHF), as well as the datasets needed for this technique.
+Fine-tune the Llama 2 model using RLHF with the open source Google Cloud Pipeline Components Library.
+Evaluate tuned model performance against the base model with evaluation methods.
 
 
 Large language models (LLMs) are trained on human-generated text, but additional methods are needed to align an LLM with human values and preferences.
