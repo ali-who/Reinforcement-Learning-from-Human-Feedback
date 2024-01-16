@@ -9,5 +9,6 @@ Reinforcement Learning from Human Feedback (RLHF) is currently the main method f
 
 In this course, I gained a conceptual understanding of the RLHF training process, and then practice applying RLHF to tune an LLM.
 - Explore the two datasets that are used in RLHF training: the “preference” and “prompt” datasets.
-- Use the open source Google Cloud Pipeline Components Library, to fine-tune the Llama 2 model with RLHF.
 - Assess the tuned LLM against the original base model by comparing loss curves and using the “Side-by-Side (SxS)” method.
+
+There are also steps on how to use the open source Google Cloud Pipeline Components Library, to fine-tune the Llama 2 model with RLHF.
